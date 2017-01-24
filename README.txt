@@ -2,13 +2,8 @@ CPSC 314 Project 4
 Harry Potter and the Flight of Fire
 
 By:
-Shaylene Beaudry - 11601077 - i2b9
-Angela Chen - 21226055 - e9z8
-
-**NOTE** 
-We both have 3 grace days left, and will be using all of them for this project.
-
-
+Shaylene Beaudry
+Angela Chen
 
 What:
 Harry Potter is trapped inside a donut-shaped room, which has caught on fire. His only way out is to catch the Snitch. 
